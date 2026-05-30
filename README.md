@@ -1,4 +1,4 @@
-# 💻 Laptop Price Prediction — ML Regression Model
+# Laptop Price Prediction — ML Regression Model
 
 > **Retail pricing intelligence**: Given a laptop's technical specs, predict its fair market price within ~20% accuracy using an ensemble of 375 trained models.
 
