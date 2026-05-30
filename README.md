@@ -173,5 +173,5 @@ python src/predict.py --brand Asus --ram 16 --storage 512 --cpu "Intel Core i7"
 
 ## Contact
 
-Built by [Your Name] — open to freelance data science and ML projects.  
-[LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
+Built by Sebastián White Restrepo — open to freelance data science and ML projects.  
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/sebastian-white-restrepo/)) · [GitHub]([https://github.com/your-username](https://github.com/sebasDobleU))
