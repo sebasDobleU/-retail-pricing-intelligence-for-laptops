@@ -4,7 +4,7 @@
 
 ---
 
-## 📊 Results at a Glance
+## Results
 
 | Metric | Value |
 |--------|-------|
@@ -19,7 +19,7 @@
 
 ---
 
-## 🎯 Problem
+## Problem
 
 A laptop retailer needed a data-driven way to set competitive prices for its inventory — both new and refurbished units. Manually pricing each laptop based on spec sheets was slow and inconsistent.
 
@@ -27,7 +27,7 @@ A laptop retailer needed a data-driven way to set competitive prices for its inv
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python
 - **Libraries:** pandas, scikit-learn, SHAP, matplotlib, seaborn
@@ -36,7 +36,7 @@ A laptop retailer needed a data-driven way to set competitive prices for its inv
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 - **Source:** Public laptop pricing dataset
 - **Size:** 2,160 rows × 12 columns
@@ -57,7 +57,7 @@ A laptop retailer needed a data-driven way to set competitive prices for its inv
 
 ---
 
-## ⚙️ Methodology
+## Methodology
 
 ### 1. Data Cleaning & Quality Analysis
 - Identified and handled missing values (GPU: 63% missing → valid "no dedicated GPU"; Storage type: 2% missing)
@@ -102,7 +102,7 @@ GradientBoostingRegressor(
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **RAM** is the single most influential feature — more RAM consistently means higher price
 - **Storage capacity** is the second strongest driver
@@ -112,7 +112,7 @@ GradientBoostingRegressor(
 
 ---
 
-## 🖥️ Deployment
+## Deployment
 
 A desktop GUI lets users input specs and receive an instant price estimate:
 
@@ -133,7 +133,7 @@ Touchscreen:      No
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 laptop-price-prediction/
@@ -155,7 +155,7 @@ laptop-price-prediction/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ```bash
 git clone https://github.com/your-username/laptop-price-prediction
@@ -171,7 +171,7 @@ python src/predict.py --brand Asus --ram 16 --storage 512 --cpu "Intel Core i7"
 
 ---
 
-## 📬 Contact
+## Contact
 
 Built by [Your Name] — open to freelance data science and ML projects.  
 [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/your-username)
