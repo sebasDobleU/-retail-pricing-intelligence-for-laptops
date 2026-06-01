@@ -155,13 +155,21 @@ laptop-price-prediction/
 
 ---
 
-## How to Run
+## 🚀 How to Run
 
-```bash
+### Option 1 — Google Colab (recommended, no setup needed)
+
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SkuYWshhVXn7_WudW6vSBYL6XdJef5AF?usp=sharing)
 
 Click the badge above and run all cells — the dataset loads automatically from GitHub.
 
+### Option 2 — Run locally
+
+```bash
+git clone https://github.com/sebasDobleU/-retail-pricing-intelligence-for-laptops
+cd -retail-pricing-intelligence-for-laptops
+pip install -r requirements.txt
+jupyter notebook laptop_price_prediction.ipynb
 ```
 
 ---
