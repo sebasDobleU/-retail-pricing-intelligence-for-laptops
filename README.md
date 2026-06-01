@@ -158,15 +158,10 @@ laptop-price-prediction/
 ## How to Run
 
 ```bash
-git clone https://github.com/your-username/laptop-price-prediction
-cd laptop-price-prediction
-pip install -r requirements.txt
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SkuYWshhVXn7_WudW6vSBYL6XdJef5AF?usp=sharing)
 
-# Run the GUI
-python src/gui.py
+Click the badge above and run all cells — the dataset loads automatically from GitHub.
 
-# Or run predictions from CLI
-python src/predict.py --brand Asus --ram 16 --storage 512 --cpu "Intel Core i7"
 ```
 
 ---
